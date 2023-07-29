@@ -1,4 +1,4 @@
-# RadioAstroTutorials
+# Radio Astronomy Tutorials
 ## INTRODUCTION TO RADIO ASTRONOMY
 
 Radio astronomy is a specialized branch of astronomy that focuses on the study of celestial objects and phenomena using radio waves. Unlike visible light or other forms of electromagnetic radiation, radio waves have longer wavelengths and lower frequencies, making them ideal for exploring various aspects of the universe. The field of radio astronomy has witnessed remarkable advancements since its inception in the 1930s, revolutionizing our understanding of cosmic phenomena.
